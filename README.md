@@ -35,7 +35,8 @@ The data model follows a **star schema** with a central **fact table (Sales_Data
 - Count of Cities & Suburbs  
 - Map visualization of sales distribution  
 
-![Regional Dashboard](screenshots/Screenshot-Regional.png)  
+![Regional Dashboard](https://github.com/Amaan838/Power-BI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-09-03%20132203.png)
+ 
 
 ---
 
@@ -45,7 +46,8 @@ The data model follows a **star schema** with a central **fact table (Sales_Data
 - Cost, Profit, and Profit Margin by Customer Names  
 - Color-coded Tree Map for quick customer analysis  
 
-![Customer Dashboard](screenshots/Screenshot-Customer.png)  
+![Customer Dashboard](https://github.com/Amaan838/Power-BI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-09-03%20132153.png
+)  
 
 ---
 
@@ -56,7 +58,8 @@ The data model follows a **star schema** with a central **fact table (Sales_Data
 - Sales by Channel (Wholesale, Distributor, Export)  
 - Warehouse Code-wise performance  
 
-![Sales Dashboard](screenshots/Screenshot-Sales.png)  
+![Sales Dashboard](https://github.com/Amaan838/Power-BI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-09-03%20132146.png
+)  
 
 ---
 

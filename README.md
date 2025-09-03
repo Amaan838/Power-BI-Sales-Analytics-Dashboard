@@ -1,4 +1,4 @@
-# 📊 PEM Power BI Dashboard  
+# 📊  Power BI Dashboard  
 
 ## 📌 Project Overview  
 This project is an interactive **Power BI Dashboard** designed to provide actionable insights into **Sales, Customers, and Regional Performance**.  

@@ -23,7 +23,7 @@ The data model follows a **star schema** with a central **fact table (Sales_Data
 - **DAX DateTable:** Custom date table for time intelligence (Day, Month, Year, Sorting columns)  
 
 📌 **Data Model Screenshot:**  
-![Data Model](screenshots/Screenshot-DataModel.png)  
+![Data Model](https://github.com/Amaan838/Power-BI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-09-03%20132132.png)
 
 ---
 
